@@ -1,4 +1,4 @@
-# What The Hack - Intro To Kubernetes 111
+# What The Hack - Intro To Kubernetes
 ## Introduction
 This intro level hack will help you get hands-on experience with Docker, Kubernetes and the Azure Kubernetes Service (AKS) on Microsoft Azure. Kubernetes has quickly gone from being the shiny new kid on the block to the defacto way to deploy and orchestrate containerized applications.
 
